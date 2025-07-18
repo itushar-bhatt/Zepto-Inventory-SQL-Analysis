@@ -70,12 +70,15 @@ CREATE TABLE zepto (
   quantity INTEGER
 );
 
+
 2. Data Import
+
 Loaded CSV using sqlalchemy & pymysql import feature.
+
 Python file will be there to upload directly.
 
 
-3. 🔍 Data Exploration
+4. 🔍 Data Exploration
 Counted the total number of records in the dataset
 
 Viewed a sample of the dataset to understand structure and content
